@@ -4,5 +4,8 @@
 * Data preprocessing is a must for ML.
 * The data that we are giving to the machine should be well processed for great accuracy.
 * This file contain how to preprocess data from a simple csv file using RStudio.
+* template file contain a simple data preprocessing template which can be used in any of the basic data preprocessing scenario
+* misssing data file contains ho to overcome the missing data in the data set that is provided to the machine
+* 
 
-*ChathuminaVimukthi
+| [Chathumina Vimukthi](https://github.com/ChathuminaVimukthi)   |
