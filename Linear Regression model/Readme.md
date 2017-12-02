@@ -1,4 +1,6 @@
 ### Simple Linear Regresson model 
 
-* y = mx + c
-
+* Regression Algo
+  y = mx + c
+  
+ 
